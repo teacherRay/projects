@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/plane and temple.unity
+  isLoaded: 1
+  isActive: 1

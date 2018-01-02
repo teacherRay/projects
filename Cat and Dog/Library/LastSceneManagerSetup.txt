@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/cat and dog.unity
+  isLoaded: 1
+  isActive: 1
